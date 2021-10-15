@@ -1,7 +1,6 @@
 # xbindkey
 Handy mouse key bindings for Linux
 
-```
     # For the benefit of emacs users: -*- shell-script -*-
 ###########################
 # xbindkeys configuration #
