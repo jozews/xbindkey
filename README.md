@@ -13,5 +13,5 @@ Handy mouse key bindings for Linux
     "xdotool keyup XF86AudioRaiseVolume"
     b:9 + Release
 
-    "xte 'key Super_L'"
-    b:2 + Release
+    "xdotool key XF86AudioPlay"
+    b:2
